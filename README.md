@@ -16,16 +16,14 @@ The ft_printf project is a detailed reimplementation of the classic printf() fun
 </br>
 Custom ft_printf() Function: A function that mimics the original printf() but does not implement the buffer management.
 </br>
-a. Handled Conversions: Supports c, s, p, d, i, u, x, X, and %% to handle a diverse range of outputs such as characters, strings, pointers, and numbers in various formats.
-b. Library Creation: The library libftprintf.a is created using the ar command, strictly adhering to the project's guidelines against using libtool.
+1. Handled Conversions: Supports c, s, p, d, i, u, x, X, and %% to handle a diverse range of outputs such as characters, strings, pointers, and numbers in various formats.
+2. Library Creation: The library libftprintf.a is created using the ar command, strictly adhering to the project's guidelines against using libtool.
 </br>
 
 **Learning Outcomes**
 </br>
-Deep Dive into C Standard Library Functions: By recreating printf(), this project provides hands-on experience with low-level programming concepts.
-</br>
-Variadic Functions: Enhanced understanding of handling an undefined number of arguments, crucial for flexible function design.
-</br>
-Precision in Memory Management and Type Handling: Gaining skills in managing memory and understanding type specifics in C, pivotal for performance-critical applications.
+1. Deep Dive into C Standard Library Functions: By recreating printf(), this project provides hands-on experience with low-level programming concepts.
+2. Variadic Functions: Enhanced understanding of handling an undefined number of arguments, crucial for flexible function design.
+3. Precision in Memory Management and Type Handling: Gaining skills in managing memory and understanding type specifics in C, pivotal for performance-critical applications.
 
 -----------------------ALL THE BEST---------------------------
