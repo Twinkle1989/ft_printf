@@ -16,9 +16,8 @@ The ft_printf project is a detailed reimplementation of the classic printf() fun
 </br>
 Custom ft_printf() Function: A function that mimics the original printf() but does not implement the buffer management.
 </br>
-Handled Conversions: Supports c, s, p, d, i, u, x, X, and %% to handle a diverse range of outputs such as characters, strings, pointers, and numbers in various formats.
-</br>
-Library Creation: The library libftprintf.a is created using the ar command, strictly adhering to the project's guidelines against using libtool.
+a. Handled Conversions: Supports c, s, p, d, i, u, x, X, and %% to handle a diverse range of outputs such as characters, strings, pointers, and numbers in various formats.
+b. Library Creation: The library libftprintf.a is created using the ar command, strictly adhering to the project's guidelines against using libtool.
 </br>
 
 **Learning Outcomes**
