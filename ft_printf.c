@@ -6,7 +6,7 @@
 /*   By: tsolanki <tsolanki@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/10 21:05:02 by tsolanki          #+#    #+#             */
-/*   Updated: 2024/05/13 12:36:00 by tsolanki         ###   ########.fr       */
+/*   Updated: 2024/05/13 17:57:23 by tsolanki         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,7 @@ static int	ft_format(va_list args, const char format)
 	}
 	else if (format == 'u')
 		return (ft_putunsigned(va_arg(args, unsigned int)));
-	  else if (format == '%')
+	else if (format == '%')
 		return (ft_putchar('%'));
 	else
 		return (-1);
