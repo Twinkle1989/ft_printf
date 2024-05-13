@@ -5,11 +5,11 @@ The ft_printf project is a detailed reimplementation of the classic printf() fun
 
 **Project Details**
 </br>
-Program Name: libftprintf.a
-Files Submitted: Makefile, *.h, */*.h, *.c, */*.c
-Makefile Targets: NAME, all, clean, fclean, re
-External Functions Used: malloc, free, write, va_start, va_arg, va_copy, va_end
-Library: Usage of libft is authorized and integrated.
+1. Program Name: libftprintf.a
+2. Files Submitted: Makefile, *.h, */*.h, *.c, */*.c
+3. Makefile Targets: NAME, all, clean, fclean, re
+4. External Functions Used: malloc, free, write, va_start, va_arg, va_copy, va_end
+5. Library: Usage of libft is authorized and integrated.
 </br>
 
 **Features**
